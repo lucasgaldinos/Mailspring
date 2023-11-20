@@ -119,3 +119,4 @@ Pull requests are always welcome - check out
 [CONTRIBUTING](https://github.com/Foundry376/Mailspring/blob/master/CONTRIBUTING.md)
 for more information about setting up the development environment, running
 tests locally, and submitting pull requests.
+to sync a fork from the origin repo, follow the instructions on https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
